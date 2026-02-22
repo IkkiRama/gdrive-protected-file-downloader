@@ -65,16 +65,6 @@ The script will execute the capture process according to its implementation.
 
 ---
 
-## 📦 Output
-
-The capture result may be:
-
-* Image files (**PNG/JPEG**)
-* Compiled **PDF**
-* Other formats depending on the script
-
----
-
 ## ⚖️ Disclaimer
 
 Ensure you have **legal rights** to process the document.
